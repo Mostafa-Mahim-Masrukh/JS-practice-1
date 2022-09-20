@@ -7,6 +7,8 @@ function findFactorialNumber(Number) {
     return factorial;
 }
 
-const Number = 8;
+const Number = 6;
 const result = findFactorialNumber(Number);
 console.log(result);
+
+
